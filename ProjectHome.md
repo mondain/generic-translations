@@ -1,0 +1,1 @@
+This project contains java-style properties files that may be used by projects to internationalize / localize their applications using common id's. We welcome anyone who wants to add their locale to the repo or fix currently existing locale files.
