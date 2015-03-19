@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<title>Privacy Lock</title>
+<short-desc>Aplicação tela de bloqueio fornecendo opções para manter a sua privacidade</short-desc>
+<long-desc>
+Bloqueio de Privacidade fornece um nível de protecção não está disponível em outras aplicações "tela de bloqueio". Além da prevenção de acesso ao dispositivo padrão, oferecemos a capacidade de remover os seus dados em vários níveis com base em diferentes combinações de teclas de sua escolha. As seguintes ações podem ser realizadas com base em suas sequências selecionadas:
+
+* Desbloquear dispositivo - unlock estilo padrão e permite o acesso ao dispositivo.
+* Registro de chamadas Limpar - Limpa o registro de chamadas.
+* Limpar mensagens SMS - Remove todas as mensagens SMS a partir do seu dispositivo (não funciona com o Hangouts).
+* Limpar mídia - Exclui todas as suas imagens e arquivos de vídeo.
+* Enviar SMS de emergência - As tentativas de enviar uma mensagem SMS para um número pré-definido de sua escolha.
+* Limpe dispositivo - A opção mais destrutiva e considerado uma opção de último recurso. Isso realiza um dispositivo wipe.
+
+Por último, há uma opção de prova de falhas, se você esquecer o código de desbloqueio. Pressione o botão "9" 15 vezes e, em seguida, clique em desbloquear; Isto irá exibir um botão para gerar um novo código e-mail para o seu endereço de e-mail selecionado. Eu não posso enfatizar o suficiente o que se deve definir um endereço de e-mail e testá-lo antes de definir sua seqüência de desbloqueio inicial; Esta é realmente a única maneira de obter acesso ao seu dispositivo você deve esquecer a sua sequência de desbloqueio. Oferecendo alguma outra maneira de desativar o bloqueio reduziria significativamente a eficácia do presente pedido. Tudo o que foi dito, aqui estão os seus primeiros passos após a instalação do aplicativo:
+
+1. Solte o dispositivo - A primeira vez que o aplicativo é executado, não há uma seqüência e você pode desbloqueá-lo, basta clicar no botão de desbloqueio.
+2. Abra o aplicativo de configuração PrivacyLock.
+3. Selecione a opção "Enviar New Code".
+4. Digite o endereço de e-mail que você quer que seu novo seqüência gerada enviado para.
+5. Clique no botão "Enviar mensagem de teste e-mail".
+6. Certifique-se que você tem o email de teste.
+7. Defina uma seqüência.
+8. Clique no botão "Save".
+9. Agora, selecione a opção "Device Unlock" para introduzir uma sequência de desbloqueio do dispositivo.
+10. Clique no botão "Save" para definir a sua sequência de desbloqueio.
+11. Clique no botão "Sair" se você estiver feito sequências que entram.
+
+Este aplicativo foi criado para fornecer a privacidade que qualquer um esperaria razoavelmente. Mantenha o seu conteúdo privado privado para menos do que o custo de um único café!
+
+Se você definir o bloqueio de privacidade como um aplicativo padrão, você pode redefini-la de volta para o seu lançador, acessando: Configurações -> Gerenciador de Aplicativos -> (menu de opções) Reiniciar Apps Padrão -> Selecionar Bloqueio de Privacidade -> Limpar
+Em alguns dispositivos, a seqüência é: Configurações -> Aplicativos -> Aplicativos Padrão -> Limpar
+</long-desc>
+
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<title>Privacy Lock</title>
+<short-desc>Lock screen application providing options to maintain your privacy</short-desc>
+<long-desc>
+Privacy Lock provides a level of protection not available in other "lock screen" applications. Beyond the standard device access prevention, we offer the ability to remove your data at various levels based on different key combinations of your choice. The following actions may be performed based on your selected sequences:
+
+* Unlock device - Standard style unlock and it allows access to your device.
+* Clear call log - Clears the call log.
+* Clear SMS messages - Removes all the SMS messages from your device (doesn't work with Hangouts).
+* Clear media - Deletes all your images and video files.
+* Send emergency SMS - Attempts to send a predefined SMS message to a number of your choice.
+* Wipe device - The most destructive option and considered a last-resort option. This performs a device wipe.
+
+Lastly, there is a fail-safe option if you forget your unlock code. Press the "9" button 15 times and then click unlock; This will display a button to generate a new code and email it to your selected email address. I cannot stress enough that one should set an email address and test it before setting your initial unlock sequence; This is really the only way to gain access to your device should you forget your unlock sequence. Offering some other way to disable the lock would significantly reduce the effectiveness of this application. All that being said, here are your first steps after installing the application:
+
+1. Unlock the device - The first time the application runs, there is no sequence and you may unlock it by simply clicking the unlock button.
+2. Open the PrivacyLock configuration application.
+3. Select the "Send New Code" option.
+4. Enter the email address that you would want your new generated sequence mailed to.
+5. Click the "Send Test Email" button.
+6. Verify that you got the test email.
+7. Set a sequence.
+8. Click the "Save" button.
+9. Now select the "Unlock Device" option to enter a device unlock sequence.
+10. Click the "Save" button to set your unlock sequence.
+11. Click the "Quit" button if you are done entering sequences.
+
+This application has been created to provide the privacy that anyone would reasonably expect. Keep your private content private for less than the cost of a single coffee!
+
+If you set Privacy Lock as a default app, you may reset it back to your launcher by accessing: Settings -> Application Manager -> (Option menu) Reset Default Apps -> Select Privacy Lock -> Clear
+On some devices, the sequence is: Settings -> Applications -> Default Applications -> Clear
+</long-desc>
+
+
